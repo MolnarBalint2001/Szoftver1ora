@@ -1,11 +1,17 @@
 package nationalize;
 
 import com.google.gson.annotations.SerializedName;
+import lombok.Getter;
+import lombok.Setter;
 
 import java.util.List;
 
+
+@Getter @Setter
 public class Nationality {
 
+
+    private long Id;
     private long count;
     private String name;
 
