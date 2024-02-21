@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nationalize-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nationalize-client.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
