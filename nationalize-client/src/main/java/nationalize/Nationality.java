@@ -70,10 +70,9 @@ public class Nationality {
 
         @Override
         public String toString() {
-            return "Country{" +
-                    "countryId='" + countryId + '\'' +
-                    ", probability=" + probability +
-                    '}';
+            StringBuilder sb = new StringBuilder();
+            sb.append(this.countryId.toString() + " + " + this.probability);
+            return sb.toString();
         }
     }
 
