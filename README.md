@@ -1,0 +1,2 @@
+# Szoftver1ora
+Valami
